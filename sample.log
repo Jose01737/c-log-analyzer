@@ -1,0 +1,8 @@
+INFO Server started
+WARNING Disk space is getting low
+ERROR Database connection failed
+INFO User signed in
+ERROR Request timed out
+INFO Health check passed
+NOTICE Unrecognized event
+WARNING Memory usage is high
